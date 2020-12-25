@@ -35,18 +35,16 @@ Available commands are:
     
 Hi {}, my name is {}! 
 
-I am a group manager bot created by [my master](tg://user?id={}) based on Project Daisy written by [InukaASiTH](https://visi.tk/inukaasith)
+I am a group manager bot in [SL PC GAMES CHAT](https://t.me/slpcgame).My master is [Isira PiumATH](https://t.me/IsiRAPiumaTH).Speciall thanks for [Prabhasa](https://t.me/prabhasha999) and [Dasun](https://t.me/dasun_pamod)
 
-You can find the list of available commands with /help.
 
-Want to Chat with me, send /addchat and reply to my message to start chatting.
+If you want to start Chat with me, send 👉 /addchat 👈 and reply to my message to start chatting.
 
-[- The Source code is available on Github -](https://github.com/InukaAsith/Daisy.git)
-©2020 by [Infinity JE®](https://infinityje.com). 
+
 """,
     "help_text": """
 ආයුබෝවන්!
- ඔයාව Daisy Project එකෙන් රන් වෙන තවත් බොට් කෙනෙකුට සාදරයෙන් පිළිගන්නවා! Have a look at the following for an idea of some of \
+ ඔයාව Eliza Project එකෙන් රන් වෙන තවත් බොට් කෙනෙකුට සාදරයෙන් පිළිගන්නවා! Have a look at the following for an idea of some of \
 the things I can help you with.
 
 *Main* commands available:
