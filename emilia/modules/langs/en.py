@@ -35,7 +35,7 @@ Available commands are:
     
 Hi {}, my name is {}! 
 
-I am a group manager bot🤖🤖 in [🔰⭕️SL PC GAMES CHAT⭕️🔰](https://t.me/slpcgame).
+I am a group manager bot🤖🤖 in [🔰SL PC GAMES CHAT🔰](https://t.me/slpcgame).
 My master is [Isira PiumATH](https://t.me/IsiRAPiumaTH).Speciall thanks for [Prabhasa](https://t.me/prabhasha999) and [Dasun](https://t.me/dasun_pamod)
 
 
